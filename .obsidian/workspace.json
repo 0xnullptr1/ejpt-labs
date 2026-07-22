@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "d384b1fd08c9510c",
+    "type": "split",
+    "children": [
+      {
+        "id": "da4ac45f92769dd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdd08ce690d7ffdd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a075d19255cba479",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dead8ada2e78b51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61a6f15c0cc79ac6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6fa66a2f7cbb8b77",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7d990214abfb07c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c5938ae2c43873a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6c549ba6e678810",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2d6ed1a1ab1843a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Assessment Methodologies: Information Gathering CTF 1/Lab.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Lab"
+            }
+          },
+          {
+            "id": "90e3226be02bdee3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Assessment Methodologies: Information Gathering CTF 1/Lab.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Lab"
+            }
+          },
+          {
+            "id": "a58c743109c6f06b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0641e43c48d6b240",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4a62d831f368f816",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Assessment Methodologies: Information Gathering CTF 1/Lab.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Lab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bdd08ce690d7ffdd",
+  "lastOpenFiles": [
+    "11-Exploitation CTF 2/Lab 11.md",
+    "7-System-Host Based Attacks CTF 2/Lab 6.md",
+    "6-System-Host Based Attacks CTF 2/screens/2.png",
+    "6-System-Host Based Attacks CTF 2/screens/1.png",
+    "6-System-Host Based Attacks CTF 2/screens",
+    "6-System-Host Based Attacks CTF 2/Lab 6.md",
+    "6-System-Host Based Attacks CTF 2",
+    "7-Network-Based Attacks CTF 1/screens/6.png",
+    "7-Network-Based Attacks CTF 1/screens/5.png",
+    "7-Network-Based Attacks CTF 1/screens/3.png",
+    "7-Network-Based Attacks CTF 1/screens/2.png",
+    "7-Network-Based Attacks CTF 1/screens/1.png",
+    "7-Network-Based Attacks CTF 1/screens/0.png",
+    "7-Network-Based Attacks CTF 1/screens",
+    "7-Network-Based Attacks CTF 1/Lab 7.md",
+    "7-Network-Based Attacks CTF 1",
+    "6-Network-Based Attacks CTF 1/Lab 7.md",
+    "8-The Metasploit Framework CTF 1/Lab 8.md",
+    "2-Footprinting and Scanning CTF 1/Lab 2.md",
+    "1-Information Gathering CTF 1/Lab 1.md",
+    "12-Exploitation CTF 3/Lab 12.md",
+    "12-Exploitation CTF 3/screens",
+    "13-Post-Exploitation CTF 1/Lab 13.md",
+    "14-Post-Exploitation CTF 2/Lab 14.md",
+    "11-Exploitation CTF 2/screens/0.png",
+    "10-Exploitation CTF 1/Lab 10.md",
+    "11-Exploitation CTF 2/screens",
+    "11-Exploitation CTF 2",
+    "15-Web Application Penetration Testing CTF 1/Lab 15.md",
+    "15-Web Application Penetration Testing CTF 1/screens/5.png",
+    "15-Web Application Penetration Testing CTF 1/screens",
+    "15-Web Application Penetration Testing CTF 1/Lab 13.md",
+    "15-Web Application Penetration Testing CTF 1",
+    "14-Post-Exploitation CTF 2/screens",
+    "14-Post-Exploitation CTF 2/Lab 12.md",
+    "13-Post-Exploitation CTF 1/Lab 11.md",
+    "9-The Metasploit Framework CTF 2/Lab 9.md",
+    "11-Post-Exploitation CTF 1/Lab 11.md",
+    "13-Web Application Penetration Testing CTF 1/Lab 13.md",
+    "12-Post-Exploitation CTF 2/Lab 12.md",
+    "9-Post-Exploitation CTF 1/Lab 11.md",
+    "9-Post-Exploitation CTF 2/Lab 12.md",
+    "10-Post-Exploitation CTF 2/Lab 12.md",
+    "8-The Metasploit Framework CTF 2/Lab 9.md",
+    "9-The Metasploit Framework CTF 1/Lab 8.md"
+  ]
+}
