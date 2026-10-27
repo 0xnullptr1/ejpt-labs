@@ -1,6 +1,6 @@
 ## Tasks
 
-![](Web%20Application%20Penetration%20Testing%20CTF%201/screens/0.png)
+![](./screens/0.png)
 
 ---
 ## Flag 1
@@ -67,7 +67,7 @@ FLAG2_029e01a941c5439ab3a1b9612d385990
 
 The login form at `/login` submits credentials via HTTP POST:
 
-![](Web%20Application%20Penetration%20Testing%20CTF%201/screens/2.png)
+![](./screens/2.png)
 
 Inspecting the failure response reveals the string `Invalid` is returned on bad credentials, which becomes the failure condition for Hydra's `http-post-form` module:
 
@@ -88,7 +88,7 @@ Hydra (https://github.com/vanhauser-thc/thc-hydra) finished at 2026-06-16 01:57:
 
 Logging in as `guest:butterfly1` lands on the User Profile page, which exposes the flag in the `Secret String` field:
 
-![](Web%20Application%20Penetration%20Testing%20CTF%201/screens/3.png)
+![](./screens/3.png)
 
 ```
 FLAG3_3d7b1b8507734fbea02bb538782d2c2d
@@ -101,11 +101,11 @@ FLAG3_3d7b1b8507734fbea02bb538782d2c2d
 
 The login form passes credentials directly into a SQL query without sanitisation. Submitting a classic SQL injection payload as the username causes the backend to authenticate as `admin` without requiring a valid password:
 
-![](Web%20Application%20Penetration%20Testing%20CTF%201/screens/4.png)
+![](./screens/4.png)
 
 The authenticated session lands directly on the admin User Profile page, revealing the flag in the `Secret String` field:
 
-![](Web%20Application%20Penetration%20Testing%20CTF%201/screens/5.png)
+![](./screens/5.png)
 
 ```
 FLAG4_4c79b73fde69464f899dbafbae541503
